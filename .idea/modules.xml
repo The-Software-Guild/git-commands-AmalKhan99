@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicProgrammingAssessment/BasicProgrammingAssessment.iml" filepath="$PROJECT_DIR$/BasicProgrammingAssessment/BasicProgrammingAssessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factoriser/Factoriser.iml" filepath="$PROJECT_DIR$/Factoriser/Factoriser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterestCalculator/InterestCalculator.iml" filepath="$PROJECT_DIR$/InterestCalculator/InterestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBasics.iml" filepath="$PROJECT_DIR$/.idea/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuckySevens/LuckySevens.iml" filepath="$PROJECT_DIR$/LuckySevens/LuckySevens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeProgramming/PracticeProgramming.iml" filepath="$PROJECT_DIR$/PracticeProgramming/PracticeProgramming.iml" />
+    </modules>
+  </component>
+</project>
