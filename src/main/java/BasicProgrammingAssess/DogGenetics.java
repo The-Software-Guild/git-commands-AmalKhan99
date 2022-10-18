@@ -17,7 +17,7 @@ public class DogGenetics {
         for(int i=0;i<((breeds.length)-1);i++){
 
             Random random = new Random();
-            int percentage= random.nextInt(prevP); //Generates random percentage
+            int percentage= random.nextInt(prevP)+1; //Generates random percentage
             System.out.println(percentage+"% "+breeds[i]+"."); //Outputs percentage for that element in array
             prevP= prevP-percentage; //Takes away outputted percentage from bound to use in random generator
             totalProb= totalProb+percentage;
